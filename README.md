@@ -21,6 +21,19 @@ Este repositorio busca:
 
 ---
 
+# ☁️ Material del curso
+
+Parte del material del curso se encuentra almacenado externamente en Google Drive.
+
+### 📚 Diapositivas y material
+
+[![Abrir material del curso](https://img.shields.io/badge/📂%20Abrir%20material-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/10zBHBPIzMPXMAJ4vClKfjRxgVFr8_H)
+
+> [!NOTE]
+> El contenido de Google Drive puede actualizarse independientemente de este repositorio.
+
+---
+
 # 📂 Estructura
 
 Actualmente, el repositorio está organizado de la siguiente manera:
