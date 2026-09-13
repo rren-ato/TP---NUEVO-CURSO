@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-08/ejercicio-01/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/ejercicio-01.dir/main.cpp.o -c \"/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-08/ejercicio-01/main.cpp\"",
+  "file": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-08/ejercicio-01/main.cpp",
+  "output": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-08/ejercicio-01/cmake-build-debug/CMakeFiles/ejercicio-01.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-08/ejercicio-01/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/ejercicio-01.dir/Bibliotecas/FuncionesAuxiliares.cpp.o -c \"/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-08/ejercicio-01/Bibliotecas/FuncionesAuxiliares.cpp\"",
+  "file": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-08/ejercicio-01/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-08/ejercicio-01/cmake-build-debug/CMakeFiles/ejercicio-01.dir/Bibliotecas/FuncionesAuxiliares.cpp.o"
+}
+]

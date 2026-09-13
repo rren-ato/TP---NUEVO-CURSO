@@ -1,0 +1,36 @@
+----------------------------------------------------
+REPORTE DE STOCK POR PRODUCTO
+----------------------------------------------------
+Producto 101 (categoria A)
+  Entradas:                 60
+  Salidas:                  23
+  Stock resultante:         37
+----------------------------------------------------
+Producto 102 (categoria B)
+  Entradas:                 20
+  Salidas:                   5
+  Stock resultante:         15
+----------------------------------------------------
+Producto 103 (categoria A)
+  Entradas:                 30
+  Salidas:                  12
+  Stock resultante:         18
+----------------------------------------------------
+Producto 104 (categoria C)
+    sin movimientos registrados
+  Entradas:                  0
+  Salidas:                   0
+  Stock resultante:          0
+----------------------------------------------------
+Producto 105 (categoria B)
+  Entradas:                 40
+  Salidas:                  15
+  Stock resultante:         25
+----------------------------------------------------
+Productos procesados:                    5
+Productos sin movimiento:                1
+Total de entradas:                     150
+Total de salidas:                       55
+Producto con mayor stock:              101
+  stock de ese producto:                37
+----------------------------------------------------
