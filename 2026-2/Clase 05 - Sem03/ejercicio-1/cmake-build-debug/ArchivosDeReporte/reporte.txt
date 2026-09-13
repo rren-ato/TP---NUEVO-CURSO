@@ -1,0 +1,3 @@
+Cantidad de numeros:          8
+Suma total:              108.75
+Promedio:                 13.59
