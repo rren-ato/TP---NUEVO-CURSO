@@ -1,0 +1,6 @@
+{"fechaHora": "2026-08-15T09:12:05", "id": 101, "categoria": "A", "importe": 37.50}
+{"fechaHora": "2026-08-15T12:00:00", "id": 103, "categoria": "A", "importe": 36.25}
+{"fechaHora": "2026-08-16T08:30:00", "id": 102, "categoria": "B", "importe": 80.00}
+{"fechaHora": "2026-08-17T19:03:47", "id": 104, "categoria": "C", "importe": 120.00}
+{"fechaHora": "2026-08-18T10:00:00", "id": 105, "categoria": "B", "importe": 60.00}
+{"ventas": 5, "ventasInvalidas": 2, "total": 333.75, "mayorImporte": 120.00, "mayorId": 104, "mayorFechaHora": "2026-08-17T19:03:47", "menorImporte": 36.25, "menorId": 103, "menorFechaHora": "2026-08-15T12:00:00"}
