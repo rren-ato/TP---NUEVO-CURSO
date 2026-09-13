@@ -1,0 +1,17 @@
+--------------------------------------------
+REPORTE DE MEDICIONES
+--------------------------------------------
+Mediciones procesadas:                  12
+Suma total:                         286.90
+Promedio:                            23.91
+Rango (max - min):                   11.20
+--------------------------------------------
+Valor maximo:                        29.70
+  Registrado el 07/08/2026
+Valor minimo:                        18.50
+  Registrado el 06/08/2026
+--------------------------------------------
+Dias sobre el promedio:                  6
+Dias bajo el promedio:                   6
+Dias igual al promedio:                  0
+--------------------------------------------
