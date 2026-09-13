@@ -1,0 +1,43 @@
+----------------------------------------------------
+REPORTE DE PEDIDOS POR CLIENTE
+----------------------------------------------------
+Cliente 1 (categoria A)
+    pedido         50.00
+    pedido         30.00
+    pedido         15.00
+  Pedidos:                     3
+  Total:                   95.00
+  Promedio:                31.67
+----------------------------------------------------
+Cliente 2 (categoria B)
+    pedido        120.00
+    pedido         60.00
+  Pedidos:                     2
+  Total:                  180.00
+  Promedio:                90.00
+----------------------------------------------------
+Cliente 3 (categoria A)
+    pedido         75.50
+    pedido         40.00
+  Pedidos:                     2
+  Total:                  115.50
+  Promedio:                57.75
+----------------------------------------------------
+Cliente 4 (categoria C)
+    sin pedidos registrados
+  Pedidos:                     0
+  Total:                    0.00
+  Promedio:                 0.00
+----------------------------------------------------
+Cliente 5 (categoria B)
+    pedido        200.00
+  Pedidos:                     1
+  Total:                  200.00
+  Promedio:               200.00
+----------------------------------------------------
+Clientes procesados:                     5
+Clientes sin pedidos:                    1
+Total facturado:                    590.50
+Cliente con mayor gasto:                 5
+  monto de ese cliente:             200.00
+----------------------------------------------------
