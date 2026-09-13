@@ -1,0 +1,13 @@
+------------------------------------------------
+REPORTE DE LECTURAS (CSV)
+------------------------------------------------
+Lecturas procesadas:                   8
+Suma total:                       190.70
+Promedio:                          23.84
+Rango (max - min):                 14.10
+------------------------------------------------
+Lectura maxima:                    30.00
+  lectura #4 del sensor B, registrada el 15/08/2026 a las 15:00:00
+Lectura minima:                    15.90
+  lectura #8 del sensor A, registrada el 16/08/2026 a las 12:00:00
+------------------------------------------------

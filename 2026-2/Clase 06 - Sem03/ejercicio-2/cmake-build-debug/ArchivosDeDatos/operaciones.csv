@@ -1,0 +1,9 @@
+# Operaciones registradas - agosto 2026
+# formato: fecha,hora,nombre,tipo,monto   (tipo: D = deposito, R = retiro)
+15/08/2026,08:12:05,juan,D,1250.50
+15/08/2026,14:05:09,maria,R,300.00
+16/08/2026,08:30:00,pedro,D,780.25
+16/08/2026,17:45:30,lucia,R,120.00
+17/08/2026,09:20:15,carlos,D,2040.00
+17/08/2026,19:03:47,ana,R,560.80
+18/08/2026,10:00:00,jose,D,300.00
