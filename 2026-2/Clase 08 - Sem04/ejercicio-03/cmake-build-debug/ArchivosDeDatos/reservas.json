@@ -1,0 +1,6 @@
+{"fechaHora": "2026-09-12T14:00:00", "id": 201, "habitacion": "S", "importe": 360.00}
+{"fechaHora": "2026-09-12T16:30:00", "id": 202, "habitacion": "D", "importe": 361.00}
+{"fechaHora": "2026-09-13T09:15:00", "id": 204, "habitacion": "T", "importe": 1250.00}
+{"fechaHora": "2026-09-14T20:45:10", "id": 206, "habitacion": "S", "importe": 440.00}
+{"fechaHora": "2026-09-15T11:00:00", "id": 207, "habitacion": "D", "importe": 200.00}
+{"reservas": 5, "reservasInvalidas": 2, "total": 2611.00, "mayorImporte": 1250.00, "mayorId": 204, "mayorFechaHora": "2026-09-13T09:15:00", "menorImporte": 200.00, "menorId": 207, "menorFechaHora": "2026-09-15T11:00:00"}
