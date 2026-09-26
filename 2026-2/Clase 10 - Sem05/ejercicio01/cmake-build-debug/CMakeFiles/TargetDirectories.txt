@@ -1,0 +1,3 @@
+/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-10/ejercicio01/cmake-build-debug/CMakeFiles/ejercicio01.dir
+/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-10/ejercicio01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-10/ejercicio01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
