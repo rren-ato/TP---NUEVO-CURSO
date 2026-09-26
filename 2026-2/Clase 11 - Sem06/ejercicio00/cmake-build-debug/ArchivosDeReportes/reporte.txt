@@ -1,0 +1,7 @@
+REPORTE DE CAT. (ALUMNO)
+Código: 10, categoría: A
+Código: 12, categoría: INVÁLIDA
+Código: 13, categoría: INVÁLIDA
+Código: 16, categoría: D
+Código: 8, categoría: B
+Código: 7, categoría: D
