@@ -1,0 +1,11 @@
+REPORTE DE NOTAS
+Código: 20181234, Ciclo8, Nota: 11.00
+Código: 20190456, Ciclo7, Nota: 9.50
+Código: 20195521, Ciclo6, Nota: 7.00
+Código: 20200117, Ciclo6, Nota: 14.50
+Código: 20203380, Ciclo5, Nota: F
+Código: 20210042, Ciclo4, Nota: 15.00
+Código: 20214479, Ciclo4, Nota: 10.50
+Código: 20220305, Ciclo3, Nota: 18.00
+Código: 20227712, Ciclo2, Nota: 17.25
+Código: 20230198, Ciclo1, Nota: 8.75
