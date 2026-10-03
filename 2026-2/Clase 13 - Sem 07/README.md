@@ -9,4 +9,8 @@
        width="100%">
 </div>
 
-
+<div align="center">
+  <img src="../../assets/Pizarra de Memoria Dinamica.jpg "
+       alt="Guía visual de ordenamiento y búsqueda"
+       width="100%">
+</div>
