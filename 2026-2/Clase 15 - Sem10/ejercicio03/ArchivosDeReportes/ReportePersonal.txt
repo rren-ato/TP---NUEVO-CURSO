@@ -1,0 +1,6 @@
+DNI       NOMBRE                                 SUELDO
+378708    SAENZ ARANDA WILMER                  23455.60
+654321    ROBLES VEGA PABLO                    15300.00
+987654    GOMEZ RUIZ CARLOS                    12000.00
+456789    MONTES LUNA ROSA                      8750.25
+123456    DIAZ PEREZ ANA                        5400.50
