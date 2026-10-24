@@ -1,0 +1,31 @@
+REPORTE DE NORMALIZACION: EL RETORNO DEL JEDI
+=============================================
+Lineas procesadas:                       71
+Caracteres originales:                 5172
+Equivalencias aplicadas:                120
+Caracteres extranos removidos:          335
+Stop words removidas:                   328
+Caracteres finales:                    3551
+
+FRECUENCIA DE TERMINOS
+======================
+NRO  TERMINO               FRECUENCIA
+1    luke                          18
+2    vader                         11
+3    anakin                         4
+4    emperador                      7
+5    leia                           5
+6    han                            4
+7    jedi                           2
+8    fuerza                         6
+9    ladooscuro                     3
+10   padre                          8
+11   hijo                           4
+12   endor                          5
+13   ewoks                          3
+14   estrellamuerte                 5
+15   halconmilenario                2
+16   escudo                         3
+17   sable                          3
+18   rebeldes                       2
+19   imperio                        2

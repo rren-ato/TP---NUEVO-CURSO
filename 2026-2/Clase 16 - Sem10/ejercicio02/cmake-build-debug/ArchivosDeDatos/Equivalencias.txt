@@ -1,0 +1,25 @@
+Estrella de la Muerte|estrellamuerte
+Halcón Milenario|halconmilenario
+Darth Vader|vader
+Luke Skywalker|luke
+Anakin Skywalker|anakin
+Leia Organa|leia
+Han Solo|han
+Obi-Wan Kenobi|obiwan
+R2-D2|r2d2
+C-3PO|c3po
+AT-ST|atst
+lado oscuro|ladooscuro
+á|a
+é|e
+í|i
+ó|o
+ú|u
+Á|a
+É|e
+Í|i
+Ó|o
+Ú|u
+ñ|n
+Ñ|n
+ü|u
