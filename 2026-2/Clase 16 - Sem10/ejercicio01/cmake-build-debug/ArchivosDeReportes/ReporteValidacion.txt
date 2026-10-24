@@ -1,0 +1,33 @@
+REPORTE DE VALIDACION DE REGISTROS
+==================================
+NRO  VALOR          TIPO      ESTADO     MOTIVO
+1    45879632       DNI       VALIDO     -
+2    ABC-123        PLACA     VALIDO     -
+3    24-10-2026     FECHA     VALIDO     -
+4    1234567        DNI       INVALIDO   Longitud incorrecta
+5    XYZ-987        PLACA     VALIDO     -
+6    29-02-2024     FECHA     VALIDO     -
+7    123456789      DNI       INVALIDO   Longitud incorrecta
+8    abc-123        PLACA     INVALIDO   No cumple el formato XYZ-123
+9    29-02-2023     FECHA     INVALIDO   El dia no existe en ese mes
+10   4587A632       DNI       INVALIDO   Contiene caracteres no numericos
+11   AB1-234        PLACA     INVALIDO   No cumple el formato XYZ-123
+12   31-04-2026     FECHA     INVALIDO   El dia no existe en ese mes
+13   70123456       DNI       VALIDO     -
+14   ABC123         PLACA     INVALIDO   Longitud incorrecta
+15   15/08/2026     FECHA     INVALIDO   No cumple el formato dd-mm-aaaa
+16   00012345       DNI       VALIDO     -
+17   ABC-12A        PLACA     INVALIDO   No cumple el formato XYZ-123
+18   5-8-2026       FECHA     INVALIDO   Longitud incorrecta
+19   10293847       DNI       VALIDO     -
+20   QWE-001        PLACA     VALIDO     -
+21   00-01-2026     FECHA     INVALIDO   El dia no existe en ese mes
+22   20123456789    RUC       INVALIDO   Tipo de dato desconocido
+23   F7Z-456        PLACA     INVALIDO   No cumple el formato XYZ-123
+24   15-13-2026     FECHA     INVALIDO   Mes fuera de rango (01-12)
+25   45 87963       DNI       INVALIDO   Contiene caracteres no numericos
+26   LMN-4567       PLACA     INVALIDO   Longitud incorrecta
+27   29-02-2000     FECHA     VALIDO     -
+28   29-02-1900     FECHA     INVALIDO   El dia no existe en ese mes
+29   31-12-1999     FECHA     VALIDO     -
+30   98765432       DNI       VALIDO     -

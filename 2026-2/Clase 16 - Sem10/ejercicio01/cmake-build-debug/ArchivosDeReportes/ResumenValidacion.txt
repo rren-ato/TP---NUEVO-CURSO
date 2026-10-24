@@ -1,0 +1,9 @@
+RESUMEN POR TIPO
+================
+TIPO         VALIDOS   INVALIDOS   TOTAL
+DNI                5           4       9
+PLACA              3           6       9
+FECHA              4           7      11
+OTRO               0           1       1
+----------------------------------------
+Registros procesados:                 30
