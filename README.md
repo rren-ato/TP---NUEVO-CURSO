@@ -28,9 +28,9 @@ Parte del material del curso se encuentra almacenado externamente en Google Driv
 ### 📚 Diapositivas y material
 
 
-<a href="https://drive.google.com/drive/folders/10zBHBJPzlMPXMAJ4vClKfjRxgaVFr8_H?usp=sharing" target="_blank">
-  <img src="https://shields.io" alt="Abrir material del curso">
-</a>
+[![Abrir material del curso](https://shields.io)](https://drive.google.com/drive/folders/10zBHBPJzlMPXMAJ4vCIkfjRxgaVFr8_H?usp=sharing )
+
+
 
 
 [![Abrir material del curso](https://img.shields.io/badge/📂%20Abrir%20material-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/10zBHBJPzlMPXMAJ4vClKfjRxgaVFr8_H?usp=sharing)
