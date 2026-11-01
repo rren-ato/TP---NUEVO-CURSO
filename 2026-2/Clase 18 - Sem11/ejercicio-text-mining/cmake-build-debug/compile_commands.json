@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-18/ejercicio-text-mining/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/ejercicio-text-mining.dir/main.cpp.o -c \"/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-18/ejercicio-text-mining/main.cpp\"",
+  "file": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-18/ejercicio-text-mining/main.cpp",
+  "output": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-18/ejercicio-text-mining/cmake-build-debug/CMakeFiles/ejercicio-text-mining.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-18/ejercicio-text-mining/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/ejercicio-text-mining.dir/Bibliotecas/FuncionesAuxiliares.cpp.o -c \"/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-18/ejercicio-text-mining/Bibliotecas/FuncionesAuxiliares.cpp\"",
+  "file": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-18/ejercicio-text-mining/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-18/ejercicio-text-mining/cmake-build-debug/CMakeFiles/ejercicio-text-mining.dir/Bibliotecas/FuncionesAuxiliares.cpp.o"
+}
+]

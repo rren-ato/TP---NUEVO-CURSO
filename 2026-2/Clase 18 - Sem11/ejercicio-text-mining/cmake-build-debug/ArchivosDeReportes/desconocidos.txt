@@ -1,0 +1,11 @@
+Palabra        Frecuencia
+amarillos      1
+fresco         1
+grande         1
+largo          1
+llamada        1
+llena          1
+lleno          1
+mismo          1
+raro           1
+tranquilo      1
