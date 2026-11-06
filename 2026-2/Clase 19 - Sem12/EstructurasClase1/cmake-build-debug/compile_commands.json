@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Estructuras1.dir/main.cpp.o -c \"/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/main.cpp\"",
+  "file": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/main.cpp",
+  "output": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/cmake-build-debug/CMakeFiles/Estructuras1.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Estructuras1.dir/Bibliotecas/funciones.cpp.o -c \"/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/Bibliotecas/funciones.cpp\"",
+  "file": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/Bibliotecas/funciones.cpp",
+  "output": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/cmake-build-debug/CMakeFiles/Estructuras1.dir/Bibliotecas/funciones.cpp.o"
+},
+{
+  "directory": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/Estructuras1.dir/Bibliotecas/FuncionesCadenas.cpp.o -c \"/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/Bibliotecas/FuncionesCadenas.cpp\"",
+  "file": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/Bibliotecas/FuncionesCadenas.cpp",
+  "output": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-19/EstructurasClase1/cmake-build-debug/CMakeFiles/Estructuras1.dir/Bibliotecas/FuncionesCadenas.cpp.o"
+}
+]

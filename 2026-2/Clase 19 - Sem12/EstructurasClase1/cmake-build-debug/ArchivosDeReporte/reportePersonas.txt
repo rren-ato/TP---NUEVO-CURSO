@@ -1,0 +1,7 @@
+                                        REPORTE DE EMPLEADOS
+  DNI         NOMBRE                   FEC.NACIMIENTO    SUELDO    DISTRITO
+00765432   Juan Perez Ruiz               12/03/1990     6789.10     15084
+09675453   Pablo Gomez Sanchez           03/04/1998    10987.32     15082
+08653412   Alfredo Ramos Diaz            05/06/1981     7865.43     15084
+08563418   Juana Rojas Salas             12/12/1975     6756.32     16200
+00875656   Victoria Molina Rojas         05/06/1981     8907.23     16200
