@@ -1,0 +1,4 @@
+CODIGO              CICLO     PROMEDIO       MAT.      NOMBRE                        
+20237612            4         12.00          Si        Diego Torres                  
+20245647            4         19.00          Si        Juan Perez                    
+20237845            4         18.50          Si        Rosa Torres                   
