@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-20/CapturasVehiculos/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/CapturasVehiculos.dir/main.cpp.o -c \"/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-20/CapturasVehiculos/main.cpp\"",
+  "file": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-20/CapturasVehiculos/main.cpp",
+  "output": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-20/CapturasVehiculos/cmake-build-debug/CMakeFiles/CapturasVehiculos.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-20/CapturasVehiculos/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/CapturasVehiculos.dir/Bibliotecas/funcionesAdicionales.cpp.o -c \"/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-20/CapturasVehiculos/Bibliotecas/funcionesAdicionales.cpp\"",
+  "file": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-20/CapturasVehiculos/Bibliotecas/funcionesAdicionales.cpp",
+  "output": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/sesion-de-clase-20/CapturasVehiculos/cmake-build-debug/CMakeFiles/CapturasVehiculos.dir/Bibliotecas/funcionesAdicionales.cpp.o"
+}
+]
