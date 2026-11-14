@@ -1,0 +1,69 @@
+CATÁLOGO FINAL (SIN PRODUCTOS SIN VENTAS)
+============================================================
+CÓDIGO   DESCRIPCIÓN                      PRECIO     STOCK
+============================================================
+10230     Disco SSD 1TB                     289.00         9
+   Ventas:
+   06/11/2026         1 u.
+   Unidades vendidas =   1   Monto =    289.00   Stock final =   8
+------------------------------------------------------------
+15600     Memoria USB 64GB                   35.50        50
+   Ventas:
+   03/11/2026        10 u.
+   07/11/2026        12 u.
+   Unidades vendidas =  22   Monto =    781.00   Stock final =  28
+------------------------------------------------------------
+25500     Pad mouse XL                       25.00        30
+   Ventas:
+   04/11/2026         6 u.
+   Unidades vendidas =   6   Monto =    150.00   Stock final =  24
+------------------------------------------------------------
+30105     Mouse inalámbrico                 35.50        40
+   Ventas:
+   02/11/2026         5 u.
+   05/11/2026         8 u.
+   Unidades vendidas =  13   Monto =    461.50   Stock final =  27
+------------------------------------------------------------
+35880     Hub USB-C                          59.90        20
+   Ventas:
+   03/11/2026         4 u.
+   Unidades vendidas =   4   Monto =    239.60   Stock final =  16
+------------------------------------------------------------
+40213     Teclado mecánico                  89.90        15
+   Ventas:
+   02/11/2026         3 u.
+   03/11/2026         2 u.
+   07/11/2026         4 u.
+   Unidades vendidas =   9   Monto =    809.10   Stock final =   6
+------------------------------------------------------------
+42000     Soporte para laptop                79.00        14
+   Ventas:
+   05/11/2026         3 u.
+   07/11/2026         2 u.
+   Unidades vendidas =   5   Monto =    395.00   Stock final =   9
+------------------------------------------------------------
+45310     Webcam HD                         159.90         8
+   Ventas:
+   03/11/2026         3 u.
+   06/11/2026         1 u.
+   Unidades vendidas =   4   Monto =    639.60   Stock final =   4  << REPONER
+------------------------------------------------------------
+48200     Micrófono USB                    199.00         7
+   Ventas:
+   05/11/2026         2 u.
+   Unidades vendidas =   2   Monto =    398.00   Stock final =   5  << REPONER
+------------------------------------------------------------
+50720     Monitor 27 pulgadas               649.00         6
+   Ventas:
+   02/11/2026         1 u.
+   06/11/2026         1 u.
+   Unidades vendidas =   2   Monto =   1298.00   Stock final =   4  << REPONER
+------------------------------------------------------------
+70015     Silla gamer                       899.00         4
+   Ventas:
+   04/11/2026         1 u.
+   Unidades vendidas =   1   Monto =    899.00   Stock final =   3  << REPONER
+------------------------------------------------------------
+Cantidad de productos: 11
+Unidades vendidas:     69
+Monto total vendido:   6359.80
