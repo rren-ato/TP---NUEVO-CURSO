@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/listas-ligadas/tercera clase/ejercicio01-lista-doble/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/ejercicio01.dir/main.cpp.o -c \"/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/listas-ligadas/tercera clase/ejercicio01-lista-doble/main.cpp\"",
+  "file": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/listas-ligadas/tercera clase/ejercicio01-lista-doble/main.cpp",
+  "output": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/listas-ligadas/tercera clase/ejercicio01-lista-doble/cmake-build-debug/CMakeFiles/ejercicio01.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/listas-ligadas/tercera clase/ejercicio01-lista-doble/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/ejercicio01.dir/Bibliotecas/FuncionesAuxiliares.cpp.o -c \"/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/listas-ligadas/tercera clase/ejercicio01-lista-doble/Bibliotecas/FuncionesAuxiliares.cpp\"",
+  "file": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/listas-ligadas/tercera clase/ejercicio01-lista-doble/Bibliotecas/FuncionesAuxiliares.cpp",
+  "output": "/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/listas-ligadas/tercera clase/ejercicio01-lista-doble/cmake-build-debug/CMakeFiles/ejercicio01.dir/Bibliotecas/FuncionesAuxiliares.cpp.o"
+}
+]
