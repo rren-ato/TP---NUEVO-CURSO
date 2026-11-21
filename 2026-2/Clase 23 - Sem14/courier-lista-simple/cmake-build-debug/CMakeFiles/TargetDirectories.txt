@@ -1,0 +1,3 @@
+/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/listas-ligadas/segunda clase/courier-lista-simple/cmake-build-debug/CMakeFiles/courier-lista-simple.dir
+/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/listas-ligadas/segunda clase/courier-lista-simple/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/erichuiza/Documents/pucp/tecnicas de programacion/ejercicios/listas-ligadas/segunda clase/courier-lista-simple/cmake-build-debug/CMakeFiles/rebuild_cache.dir

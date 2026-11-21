@@ -1,0 +1,56 @@
+ENVIOS REGISTRADOS
+====================================================================================================
+CODIGO   REGISTRO     DISTRITO              ZONA      PESO     COSTO    ESTADO      FECHA       DIAS
+----------------------------------------------------------------------------------------------------
+ENV001   25/10/2026   Santiago de Surco     B         5.25      0.00    PENDIENTE
+         Remitente:     10293847   Jorge Quispe Mamani           Tel. 955443322
+         Destinatario:  40112233   Carmen Salas Rojas            Tel. 998877665
+ENV002   26/10/2026   (sin cobertura)                 4.00      0.00    PENDIENTE
+         Remitente:     71234567   Ana Torres Vega               Tel. 987654321
+         Destinatario:  99887766   (cliente no registrado)       
+ENV003   28/10/2026   Miraflores            A        12.00      0.00    PENDIENTE
+         Remitente:     40112233   Carmen Salas Rojas            Tel. 998877665
+         Destinatario:  71234567   Ana Torres Vega               Tel. 987654321
+ENV004   30/10/2026   Villa El Salvador     C        22.40      0.00    PENDIENTE
+         Remitente:     70707070   Rosa Huaman Paredes           Tel. 944112233
+         Destinatario:  45678912   Luis Ramos Diaz               Tel. 912345678
+ENV005   31/10/2026   San Borja             B         7.75      0.00    PENDIENTE
+         Remitente:     10293847   Jorge Quispe Mamani           Tel. 955443322
+         Destinatario:  71234567   Ana Torres Vega               Tel. 987654321
+ENV006   01/11/2026   Miraflores            A        15.60      0.00    PENDIENTE
+         Remitente:     45678912   Luis Ramos Diaz               Tel. 912345678
+         Destinatario:  40112233   Carmen Salas Rojas            Tel. 998877665
+ENV007   02/11/2026   San Isidro            A         0.80      0.00    PENDIENTE
+         Remitente:     45678912   Luis Ramos Diaz               Tel. 912345678
+         Destinatario:  10293847   Jorge Quispe Mamani           Tel. 955443322
+ENV008   02/11/2026   Cercado de Lima       A         3.10      0.00    PENDIENTE
+         Remitente:     40112233   Carmen Salas Rojas            Tel. 998877665
+         Destinatario:  70707070   Rosa Huaman Paredes           Tel. 944112233
+ENV009   04/11/2026   San Borja             B         9.90      0.00    PENDIENTE
+         Remitente:     70707070   Rosa Huaman Paredes           Tel. 944112233
+         Destinatario:  71234567   Ana Torres Vega               Tel. 987654321
+ENV010   05/11/2026   Cercado de Lima       A         2.50      0.00    PENDIENTE
+         Remitente:     71234567   Ana Torres Vega               Tel. 987654321
+         Destinatario:  45678912   Luis Ramos Diaz               Tel. 912345678
+ENV011   06/11/2026   Villa El Salvador     C         1.20      0.00    PENDIENTE
+         Remitente:     99887766   (cliente no registrado)       
+         Destinatario:  10293847   Jorge Quispe Mamani           Tel. 955443322
+ENV013   06/11/2026   (sin cobertura)                 2.30      0.00    PENDIENTE
+         Remitente:     40112233   Carmen Salas Rojas            Tel. 998877665
+         Destinatario:  45678912   Luis Ramos Diaz               Tel. 912345678
+ENV014   07/11/2026   Santiago de Surco     B         0.50      0.00    PENDIENTE
+         Remitente:     71234567   Ana Torres Vega               Tel. 987654321
+         Destinatario:  70707070   Rosa Huaman Paredes           Tel. 944112233
+====================================================================================================
+RESUMEN POR ZONA
+ZONA    ENVIOS   PESO (KG)    MONTO (S/)
+A            5       34.00          0.00
+B            4       23.40          0.00
+C            2       23.60          0.00
+D            0        0.00          0.00
+----------------------------------------------------------------------------------------------------
+Envios en el reporte: 13
+Envios pendientes de entrega: 13
+Filas de envios descartadas por fecha invalida: 2
+Envios eliminados por distrito sin cobertura: 0
+Entregas ignoradas: 0
